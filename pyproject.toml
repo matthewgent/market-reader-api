@@ -1,0 +1,10 @@
+[project]
+name = "Market Reader API"
+version = "0.0.0"
+description = "A simple JSON API to read and return financial market data."
+readme = "README.md"
+authors = [
+    {name = "Matthew Gent"}
+]
+license = {file = "LICENSE"}
+keywords = ["market", "finance", "data", "api"]
